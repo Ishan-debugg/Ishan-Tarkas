@@ -85,6 +85,7 @@
 |--------|-------------|-------|
 | [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/) | Flagship AI-powered NLP web app | Python · LangGraph· HITL |
 | [**Research Copilot**](https://github.com/Ishan-debugg/Research-Agent)| Full-stack RAG pipeline for AI research assistance | RAG · LangChain · FastAPI |
+
  
 > 🔗 *More projects pinned below ↓*
 > 
@@ -96,13 +97,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br><br>
-
-<div align="center">
 
 ### 💬 *"The best way to learn AI is to ship AI."*
 

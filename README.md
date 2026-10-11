@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm **Ishan Tarkas**
+# ⏻ Hey there, I'm **Ishan Tarkas**
 
 ### `> Learning AI by Building AI.`
 
@@ -13,7 +13,7 @@
 <img align="right" src="Developer_coding_loop.webp" alt="coding gif" width="460" />
 
 
-### 🧑‍💻 About Me
+### 👨🏻‍💻 About Me
 
 - **B.Tech** in Artificial Intelligence & Data Science  
 - **K.J. Somaiya Institute of Technology**
@@ -92,6 +92,6 @@
 ---
 
 
-### 💬 *"The best way to learn AI is to ship AI."*
+### ❯❯❯❯ *"The best way to learn AI is to ship AI."*
 
 </div>

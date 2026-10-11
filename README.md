@@ -4,7 +4,7 @@
 
 ### `> Learning AI by Building AI.`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+%26+Engineer;NLP+%7C+LLMs+%7C+Production+ML;Building+End-to-End+AI+Systems;Open+to+Research+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+Engineer;NLP+%7C+LLMs+%7C+Production+ML;Building+End-to-End+AI+Systems;%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.Tech** in Artificial Intelligence & Data Science  
-  @ **K.J. Somaiya Institute of Technology**
+- **B.Tech** in Artificial Intelligence & Data Science  
+- **K.J. Somaiya Institute of Technology**
 - **CGPA: 9.23** — Consistently top of class
 - Currently building **end-to-end deployable AI projects**
 - Deep-diving into **LLMs, RAG pipelines & production NLP**
 - My best work → [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/)
-- 📬 Reach me at **tarkasishan7536@gmail.com**
+- Reach me at **tarkasishan7536@gmail.com**
 
 <br clear="right"/>
 

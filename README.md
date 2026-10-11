@@ -10,7 +10,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="Developer_coding_loop.gif" />
+<img src="Developer_coding_loop.gif" 
+     alt="coding" 
+     width="380"
+     loop="infinite"
+     autoplay
+     muted/>
 
 ### 🧑‍💻 About Me
 

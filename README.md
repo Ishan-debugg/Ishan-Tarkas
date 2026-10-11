@@ -100,6 +100,4 @@
 
 ### 💬 *"The best way to learn AI is to ship AI."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishan-debugg&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>

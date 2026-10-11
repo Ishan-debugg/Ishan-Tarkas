@@ -83,7 +83,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/) | Flagship AI-powered NLP web app | Python · LangGraph· HITL |
+| [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/) | A Text-to-SQL system | Python · LangGraph· HITL |
 | [**Research Copilot**](https://github.com/Ishan-debugg/Research-Agent)| Full-stack RAG pipeline for AI research assistance | RAG · LangChain · FastAPI |
 | [**LokSeva AI**](https://github.com/Ishan-debugg/LokSeva-AI) | Smart Governance Complaint Redressal System | TF-IDF . Scikit-learn . Pandas |
 | [**LLM Evals**](https://github.com/Ishan-debugg/LLM-EVALS) | LLM-as-a-Judge evaluation | Ollama . SQLAlchemy . Rubric-based scoring |

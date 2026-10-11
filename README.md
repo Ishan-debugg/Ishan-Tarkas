@@ -83,12 +83,13 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/) | Flagship AI-powered NLP web app | Python · AST Parsing
- · HITL |
+| [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/) | Flagship AI-powered NLP web app | Python · LangGraph· HITL |
 | [**Research Copilot**](https://github.com/Ishan-debugg/Research-Agent)| Full-stack RAG pipeline for AI research assistance | RAG · LangChain · FastAPI |
  
 > 🔗 *More projects pinned below ↓*
+> 
 > [**LokSeva AI**](https://github.com/Ishan-debugg/LokSeva-AI)
+> 
 > [**LLM Evals**](https://github.com/Ishan-debugg/LLM-EVALS) 
 
 
@@ -97,8 +98,9 @@
 
 ### 📈 Activity Graph
 
-[![Ishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishan-debugg&theme=tokyo-night&hide_border=true)]
----
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
 
 <div align="center">
 

@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="Developer_coding_loop.webp" alt="coding gif" width= "400" />
+<img align="right" src="Developer_coding_loop.webp" alt="coding gif" width="400" />
 
 
 ### 🧑‍💻 About Me

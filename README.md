@@ -17,7 +17,7 @@
 
 - **B.Tech** in Artificial Intelligence & Data Science  
 - **K.J. Somaiya Institute of Technology**
-- **CGPA: 9.23** — Consistently top of class
+- **CGPA: 9.23** — Consistently Maintained
 - Currently building **end-to-end deployable AI projects**
 - Deep-diving into **LLMs, RAG pipelines & production NLP**
 - My best work → [**Definition Drift**](https://definitiondrift.ishan-tarkas.in/)

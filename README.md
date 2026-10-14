@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./Black and Green Modern Designer UI/UX Online Portfolio.png" width="100%" alt="GitHub Profile Banner" />
+</div>
+
+<div align="center">
 
 # ⏻ Hey there, I'm **Ishan Tarkas**
 
